@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<properties>
+		<title>Ghost Notes</title>
+		<version>0.1</version>
+		<author>Ringo Bautista</author>
+		<developer>REENGO</developer>
+		<distributor>www.reengo.com</distributor>
+		<initReleaseDate></initReleaseDate>
+	</properties>
+	
+	<text>	
+		<welcome>Welcome!</welcome>
+	</text>
+	
+	<settings>
+		<sound>on</sound>
+	</settings>
+
+	<assets>
+		<graphics>
+			<profile>reen3.jpg</profile>
+		</graphics>
+		
+		<sounds>
+			<e>e1.mp3</e>
+			<ef>f1.mp3</ef>
+			<efs>fs1.mp3</efs>
+			<eg>g1.mp3</eg>
+			<egs>gs1.mp3</egs>
+			<ea>a1.mp3</ea>
+			<ebb>bb1.mp3</ebb>
+			<eb>b1.mp3</eb>
+			<ec>c1.mp3</ec>
+			<ecs>cs1.mp3</ecs>
+			<ed>d1.mp3</ed>
+			<eds>ds1.mp3</eds>
+			<ee>e2.mp3</ee>
+			<a>a1.mp3</a>
+			<abb>bb1.mp3</abb>
+			<ab>b1.mp3</ab>
+			<ac>c1.mp3</ac>
+			<acs>cs1.mp3</acs>
+			<ad>d1.mp3</ad>
+			<ads>ds1.mp3</ads>
+			<ae>e2.mp3</ae>
+			<af>f2.mp3</af>
+			<afs>fs2.mp3</afs>
+			<ag>g2.mp3</ag>
+			<ags>gs2.mp3</ags>
+			<aa>a2.mp3</aa>
+			<d>d1.mp3</d>
+			<dds>ds1.mp3</dds>
+			<de>e2.mp3</de>
+			<df>f2.mp3</df>
+			<dfs>fs2.mp3</dfs>
+			<dg>g2.mp3</dg>
+			<dgs>gs2.mp3</dgs>
+			<da>a2.mp3</da>
+			<dbb>bb2.mp3</dbb>
+			<db>b2.mp3</db>
+			<dc>c2.mp3</dc>
+			<dcs>cs2.mp3</dcs>
+			<dd>d2.mp3</dd>
+			<g>g2.mp3</g>
+			<ggs>gs2.mp3</ggs>
+			<ga>a2.mp3</ga>
+			<gbb>bb2.mp3</gbb>
+			<gb>b2.mp3</gb>
+			<gc>c2.mp3</gc>
+			<gcs>cs2.mp3</gcs>
+			<gd>d2.mp3</gd>
+			<gds>ds2.mp3</gds>
+			<gee>e3.mp3</gee>
+			<gf>f3.mp3</gf>
+			<gfs>fs3.mp3</gfs>
+			<gg>g3.mp3</gg>
+		</sounds>
+		
+	</assets>
+</root>
